@@ -22,9 +22,9 @@
     "url": "https://micro.puzzle.techtd.com.br/alive",
     "icon": "https://icons.duckduckgo.com/ip3/micro.puzzle.techtd.com.br.ico",
     "slug": "puzzle-micro-gen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 586,
     "timeMonth": 586,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-12": 0
+    }
   },
   {
     "name": "Puzzle Operation",
