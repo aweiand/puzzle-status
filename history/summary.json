@@ -46,9 +46,9 @@
     "url": "https://todotrade-puzzle-op.techtd.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/todotrade-puzzle-op.techtd.com.br.ico",
     "slug": "puzzle-operation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 918,
     "timeMonth": 933,
     "timeYear": 912,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-24": 0
+    }
   },
   {
     "name": "Puzzle Plan",
@@ -65,18 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/todotrade-puzzle-plan.techtd.com.br.ico",
     "slug": "puzzle-plan",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 884,
     "timeDay": 948,
     "timeWeek": 933,
     "timeMonth": 915,
     "timeYear": 884,
-    "dailyMinutesDown": {
-      "2024-06-24": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
