@@ -46,19 +46,19 @@
     "url": "https://todotrade-puzzle-op.techtd.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/todotrade-puzzle-op.techtd.com.br.ico",
     "slug": "puzzle-operation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 789,
-    "timeWeek": 927,
-    "timeMonth": 936,
-    "timeYear": 912,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 919,
+    "timeDay": 1014,
+    "timeWeek": 981,
+    "timeMonth": 951,
+    "timeYear": 919,
     "dailyMinutesDown": {
-      "2024-06-26": 0
+      "2024-06-26": 12
     }
   },
   {
