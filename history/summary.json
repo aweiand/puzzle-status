@@ -64,7 +64,7 @@
     "url": "https://todotrade-puzzle-plan.techtd.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/todotrade-puzzle-plan.techtd.com.br.ico",
     "slug": "puzzle-plan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,6 +76,7 @@
     "timeMonth": 865,
     "timeYear": 877,
     "dailyMinutesDown": {
+      "2024-07-08": 0,
       "2024-06-28": 16
     }
   }
