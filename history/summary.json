@@ -48,18 +48,20 @@
     "url": "https://todotrade-puzzle-op.techtd.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/todotrade-puzzle-op.techtd.com.br.ico",
     "slug": "puzzle-operation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 936,
-    "timeDay": 931,
-    "timeWeek": 989,
-    "timeMonth": 996,
-    "timeYear": 936,
-    "dailyMinutesDown": {}
+    "time": 935,
+    "timeDay": 838,
+    "timeWeek": 958,
+    "timeMonth": 988,
+    "timeYear": 935,
+    "dailyMinutesDown": {
+      "2024-07-31": 0
+    }
   },
   {
     "name": "Puzzle Plan",
