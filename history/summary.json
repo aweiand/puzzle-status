@@ -4,19 +4,19 @@
     "url": "https://api.puzzle.techtd.com.br/alive",
     "icon": "https://icons.duckduckgo.com/ip3/api.puzzle.techtd.com.br.ico",
     "slug": "puzzle-api",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "78.54%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "70.03%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.92%",
     "time": 586,
-    "timeDay": 739,
-    "timeWeek": 592,
-    "timeMonth": 628,
+    "timeDay": 654,
+    "timeWeek": 589,
+    "timeMonth": 626,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-04-12": 309
+      "2025-04-12": 432
     }
   },
   {
