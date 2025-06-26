@@ -4,7 +4,7 @@
     "url": "https://api.puzzle.techtd.com.br/alive",
     "icon": "https://icons.duckduckgo.com/ip3/api.puzzle.techtd.com.br.ico",
     "slug": "puzzle-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 579,
     "timeYear": 591,
     "dailyMinutesDown": {
+      "2025-06-26": 0,
       "2025-04-12": 432
     }
   },
@@ -59,7 +60,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/todotrade-puzzle-op.techtd.com.br.ico",
     "slug": "puzzle-operation",
     "status": "up",
-    "uptime": "92.22%",
+    "uptime": "92.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
@@ -68,7 +69,7 @@
     "timeDay": 844,
     "timeWeek": 875,
     "timeMonth": 836,
-    "timeYear": 629,
+    "timeYear": 626,
     "dailyMinutesDown": {
       "2025-06-09": 20,
       "2025-06-02": 30,
