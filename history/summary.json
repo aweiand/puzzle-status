@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 587,
-    "timeDay": 654,
-    "timeWeek": 673,
+    "timeDay": 489,
+    "timeWeek": 643,
     "timeMonth": 607,
-    "timeYear": 595,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2025-07-01": 68,
       "2025-06-30": 9,
@@ -34,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 722,
-    "timeDay": 643,
-    "timeWeek": 673,
+    "timeDay": 490,
+    "timeWeek": 642,
     "timeMonth": 608,
     "timeYear": 719,
     "dailyMinutesDown": {
@@ -64,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/todotrade-puzzle-op.techtd.com.br.ico",
     "slug": "puzzle-operation",
     "status": "up",
-    "uptime": "92.85%",
+    "uptime": "92.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "90.58%",
     "time": 693,
-    "timeDay": 940,
-    "timeWeek": 911,
+    "timeDay": 741,
+    "timeWeek": 878,
     "timeMonth": 875,
-    "timeYear": 618,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2025-07-16": 55,
       "2025-06-09": 20,
@@ -120,8 +120,7 @@
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
-      "2024-09-05": 1337,
-      "2024-08-05": 17
+      "2024-09-05": 1337
     }
   },
   {
@@ -136,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 1045,
-    "timeDay": 1385,
-    "timeWeek": 1318,
-    "timeMonth": 1203,
+    "timeDay": 1244,
+    "timeWeek": 1290,
+    "timeMonth": 1214,
     "timeYear": 1088,
     "dailyMinutesDown": {
       "2025-04-28": 16,
