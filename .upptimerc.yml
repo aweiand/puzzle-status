@@ -6,12 +6,12 @@ sites:
   - name: Puzzle API
     url: https://api.puzzle.techtd.com.br/alive
     headers:
-      - "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoxNjg2NiwiZW1haWwiOiJ0ZWNodGRAdGVjaHRkLmNvbS5iciIsInhkb21haW4iOiJkZW1vIn0sImlhdCI6MTc2MDEyMzg4MSwibmJmIjoxNzYwMTIzODgxLCJleHAiOjE3NjA3Mjg2ODEsImlzcyI6Imh0dHA6Ly9hcGkucHV6emxlLnRlY2h0ZC5jb20uYnIvbG9naW4iLCJzdWIiOiIxNjg2NiIsImp0aSI6ImFlOGM4MjhjLWFkMWYtNDJhNy04NjBiLTQyYmIxMGI3ZTM5ZiJ9.3N_5vWywDnfVg7sVJn1q_QfeB_JSZx_hZmKIeU2ySWs"
-      - "x-domain: demo"
+    - "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoxNjg2NiwiZW1haWwiOiJ0ZWNodGRAdGVjaHRkLmNvbS5iciIsInhkb21haW4iOiJkZW1vIn0sImlhdCI6MTc2MDEyMzg4MSwibmJmIjoxNzYwMTIzODgxLCJleHAiOjE3NjA3Mjg2ODEsImlzcyI6Imh0dHA6Ly9hcGkucHV6emxlLnRlY2h0ZC5jb20uYnIvbG9naW4iLCJzdWIiOiIxNjg2NiIsImp0aSI6ImFlOGM4MjhjLWFkMWYtNDJhNy04NjBiLTQyYmIxMGI3ZTM5ZiJ9.3N_5vWywDnfVg7sVJn1q_QfeB_JSZx_hZmKIeU2ySWs"
+    - "x-domain: demo"
   - name: Puzzle MicroGen
     url: https://micro.puzzle.techtd.com.br/alive
-      - "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoxNjg2NiwiZW1haWwiOiJ0ZWNodGRAdGVjaHRkLmNvbS5iciIsInhkb21haW4iOiJkZW1vIn0sImlhdCI6MTc2MDEyMzg4MSwibmJmIjoxNzYwMTIzODgxLCJleHAiOjE3NjA3Mjg2ODEsImlzcyI6Imh0dHA6Ly9hcGkucHV6emxlLnRlY2h0ZC5jb20uYnIvbG9naW4iLCJzdWIiOiIxNjg2NiIsImp0aSI6ImFlOGM4MjhjLWFkMWYtNDJhNy04NjBiLTQyYmIxMGI3ZTM5ZiJ9.3N_5vWywDnfVg7sVJn1q_QfeB_JSZx_hZmKIeU2ySWs"
-      - "x-domain: demo"    
+    - "authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoxNjg2NiwiZW1haWwiOiJ0ZWNodGRAdGVjaHRkLmNvbS5iciIsInhkb21haW4iOiJkZW1vIn0sImlhdCI6MTc2MDEyMzg4MSwibmJmIjoxNzYwMTIzODgxLCJleHAiOjE3NjA3Mjg2ODEsImlzcyI6Imh0dHA6Ly9hcGkucHV6emxlLnRlY2h0ZC5jb20uYnIvbG9naW4iLCJzdWIiOiIxNjg2NiIsImp0aSI6ImFlOGM4MjhjLWFkMWYtNDJhNy04NjBiLTQyYmIxMGI3ZTM5ZiJ9.3N_5vWywDnfVg7sVJn1q_QfeB_JSZx_hZmKIeU2ySWs"
+    - "x-domain: demo"
   - name: Puzzle Operation
     url: https://todotrade-puzzle-op.techtd.com.br
   - name: Puzzle Plan
