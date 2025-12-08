@@ -1,7 +1,7 @@
 url: https://api.puzzle.techtd.com.br/alive
-status: up
-code: 200
-responseTime: 756
-lastUpdated: 2025-12-07T23:09:31.111Z
+status: down
+code: 502
+responseTime: 493
+lastUpdated: 2025-12-08T22:17:25.800Z
 startTime: 2024-04-10T10:45:51.194Z
 generator: Upptime <https://github.com/upptime/upptime>
