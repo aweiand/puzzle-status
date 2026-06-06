@@ -4,11 +4,11 @@
     "url": "https://api.puzzle.techtd.com.br/alive",
     "icon": "https://icons.duckduckgo.com/ip3/api.puzzle.techtd.com.br.ico",
     "slug": "puzzle-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.87%",
     "time": 595,
     "timeDay": 712,
@@ -27,7 +27,8 @@
       "2025-12-09": 118,
       "2026-01-06": 17,
       "2026-01-13": 23,
-      "2026-03-03": 39
+      "2026-03-03": 39,
+      "2026-06-06": 15
     }
   },
   {
@@ -35,11 +36,11 @@
     "url": "https://micro.puzzle.techtd.com.br/alive",
     "icon": "https://icons.duckduckgo.com/ip3/micro.puzzle.techtd.com.br.ico",
     "slug": "puzzle-micro-gen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.84%",
     "time": 652,
     "timeDay": 716,
@@ -65,7 +66,8 @@
       "2026-01-26": 39,
       "2026-03-05": 65,
       "2026-03-25": 41,
-      "2026-05-15": 97
+      "2026-05-15": 97,
+      "2026-06-06": 10
     }
   },
   {
@@ -73,13 +75,13 @@
     "url": "https://todotrade-puzzle-op.techtd.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/todotrade-puzzle-op.techtd.com.br.ico",
     "slug": "puzzle-operation",
-    "status": "up",
-    "uptime": "95.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "95.55%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.80%",
-    "time": 944,
+    "time": 945,
     "timeDay": 2298,
     "timeWeek": 1888,
     "timeMonth": 1788,
@@ -103,7 +105,8 @@
       "2026-02-27": 75,
       "2026-03-05": 32,
       "2026-03-13": 53,
-      "2026-04-07": 60
+      "2026-04-07": 60,
+      "2026-06-06": 5
     }
   },
   {
@@ -111,13 +114,13 @@
     "url": "https://todotrade-puzzle-plan.techtd.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/todotrade-puzzle-plan.techtd.com.br.ico",
     "slug": "puzzle-plan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1720,
+    "time": 1706,
     "timeDay": 1832,
     "timeWeek": 2034,
     "timeMonth": 1952,
@@ -133,7 +136,8 @@
       "2026-04-08": 64,
       "2026-04-07": 154,
       "2026-04-17": 146,
-      "2026-04-16": 211
+      "2026-04-16": 211,
+      "2026-06-06": 0
     }
   }
 ]
